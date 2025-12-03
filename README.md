@@ -62,3 +62,5 @@
 ├── static/       # 编译后的前端静态资源 (JS, CSS)
 └── templates/    # 主页 index.html 模板
 ```
+
+![项目展示](./show.png)
